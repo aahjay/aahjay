@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manraj Singh Badwal</h1>
-- 🌱 I’m currently learning **Python, FastAPI,, React**
+- 🌱 I’m currently learning Python, FastAPI, React
 
 - 📫 How to reach me **manraj.b40@gmail.com**
 
